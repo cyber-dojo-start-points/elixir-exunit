@@ -1,16 +1,17 @@
 {
-  "image_name": "cyberdojofoundation/elixir_exunit",
+  "image_name": "cyberdojofoundation/elixir_exunit:cef373a",
   "display_name": "Elixir, ExUnit",
-  "visible_filenames":
-  [
-   "config/config.exs",
-   "lib/hiker.ex",
-   "test/hiker_test.exs",
-   "test/test_helper.exs",
-   "mix.exs",
-   "cyber-dojo.sh"
+  "visible_filenames": [
+    "config/config.exs",
+    "lib/hiker.ex",
+    "test/hiker_test.exs",
+    "test/test_helper.exs",
+    "mix.exs",
+    "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".ex" ],
+  "filename_extension": [
+    ".ex"
+  ],
   "max_seconds": 15,
   "tab_size": 4
 }
