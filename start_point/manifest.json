@@ -1,6 +1,6 @@
 {
   "display_name": "Elixir 1.19.5, ExUnit",
-  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:76ba10b",
+  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:18b801a",
   "visible_filenames": [
     "lib/hiker.ex",
     "test/hiker_test.exs",
