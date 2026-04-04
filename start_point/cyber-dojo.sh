@@ -1,1 +1,1 @@
-mix test
+HEX_OFFLINE=1 ELIXIR_ERL_OPTIONS="-noshell" mix test

@@ -1,6 +1,6 @@
 {
-  "image_name": "cyberdojofoundation/elixir_exunit:cef373a",
-  "display_name": "Elixir, ExUnit",
+  "display_name": "Elixir 1.19.5, ExUnit",
+  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:76ba10b",
   "visible_filenames": [
     "config/config.exs",
     "lib/hiker.ex",
@@ -9,6 +9,7 @@
     "mix.exs",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".ex"
   ],
