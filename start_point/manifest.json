@@ -1,5 +1,13 @@
 {
   "display_name": "Elixir 1.19.5, ExUnit",
+  "language": [
+    "Elixir",
+    "1.19.5"
+  ],
+  "test_framework": [
+    "ExUnit",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:18b801a",
   "visible_filenames": [
     "lib/hiker.ex",
