@@ -1,14 +1,14 @@
 {
-  "display_name": "Elixir 1.19.5, ExUnit",
+  "display_name": "Elixir 1.20, ExUnit",
   "language": [
     "Elixir",
-    "1.19.5"
+    "1.20"
   ],
   "test_framework": [
     "ExUnit",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:18b801a",
+  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:9fdfe0e",
   "visible_filenames": [
     "lib/hiker.ex",
     "test/hiker_test.exs",
@@ -17,7 +17,8 @@
   ],
   "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
-    ".ex"
+    ".ex",
+    ".exs"
   ],
   "max_seconds": 15,
   "tab_size": 4
