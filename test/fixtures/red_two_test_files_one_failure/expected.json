@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^  1\\) test the answer is three digits long \\(AnswerSizeTest\\)$": 1,
+    "^     test/answer_size_test\\.exs:[0-9]+$": 1,
+    "^Result: 3/4 passed$": 1,
+    "^Failed: 1 test$": 1
+  }
+}

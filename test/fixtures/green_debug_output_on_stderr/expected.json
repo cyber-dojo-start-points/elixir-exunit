@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 20,
+  "matches": [ "^debug: answer was called$" ],
+  "match_counts": {
+    "^Result: 1 passed$": 1
+  }
+}

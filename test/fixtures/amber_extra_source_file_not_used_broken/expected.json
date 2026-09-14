@@ -1,0 +1,6 @@
+{
+  "match_counts": {
+    "^\\*\\* \\(TokenMissingError\\) token missing on lib/checksum\\.ex:[0-9]+:[0-9]+:$": 1,
+    "^Result: ": 0
+  }
+}

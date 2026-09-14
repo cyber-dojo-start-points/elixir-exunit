@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 18,
+  "match_counts": {
+    "^Result: 1 passed$": 1,
+    "HIKERSpec": 0,
+    "three digits": 0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "matches": [ "^     \\*\\* \\(RuntimeError\\) the vogons ate the checksum$" ],
+  "match_counts": {
+    "^     \\*\\* \\(RuntimeError\\) ": 1,
+    "^     Assertion with == failed$": 1,
+    "^  [0-9]+\\) test .* \\(HIKERTest\\)$": 2,
+    "^Result: 0/2 passed$": 1,
+    "^Failed: 2 tests$": 1
+  }
+}

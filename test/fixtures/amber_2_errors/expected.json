@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^     \\*\\* \\(RuntimeError\\) the vogons ate the answer$": 2,
+    "^  [0-9]+\\) test .* \\(HIKERTest\\)$": 2,
+    "^Result: 0/2 passed$": 1,
+    "^Failed: 2 tests$": 1
+  }
+}

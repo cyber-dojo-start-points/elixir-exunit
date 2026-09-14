@@ -1,0 +1,7 @@
+{
+  "max_output_lines": 18,
+  "match_counts": {
+    "^Result: 1 passed$": 1,
+    "[Hh][Ii][Kk][Ee][Rr]": 0
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "max_output_lines": 18,
+  "match_counts": {
+    "^Result: 2 passed$": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "match_counts": {
+    "^  [0-9]+\\) test .* \\(HIKERTest\\)$": 3,
+    "^     Assertion with == failed$": 3,
+    "^Result: 0/3 passed$": 1,
+    "^Failed: 3 tests$": 1
+  }
+}

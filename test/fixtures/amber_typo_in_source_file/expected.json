@@ -1,0 +1,8 @@
+{
+  "max_output_lines": 25,
+  "matches": [ "^    error: undefined function putts/1 " ],
+  "match_counts": {
+    "^\\*\\* \\(CompileError\\) lib/hiker\\.ex: cannot compile module HIKER \\(errors have been logged\\)$": 1,
+    "^Result: ": 0
+  }
+}

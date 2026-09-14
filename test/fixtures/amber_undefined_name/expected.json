@@ -1,0 +1,8 @@
+{
+  "matches": [ "^     \\*\\* \\(UndefinedFunctionError\\) function HIKER\\.ansewr/0 is undefined or private\\. Did you mean:$" ],
+  "match_counts": {
+    "^  1\\) test life the universe and everything \\(HIKERTest\\)$": 1,
+    "^Result: 0/1 passed$": 1,
+    "^Failed: 1 test$": 1
+  }
+}

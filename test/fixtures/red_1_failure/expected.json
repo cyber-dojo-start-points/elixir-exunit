@@ -1,0 +1,10 @@
+{
+  "matches": [ "^     left:  54$", "^     right: 42$" ],
+  "match_counts": {
+    "^  1\\) test life the universe and everything \\(HIKERTest\\)$": 1,
+    "^     test/hiker_test\\.exs:[0-9]+$": 1,
+    "^     Assertion with == failed$": 1,
+    "^Result: 0/1 passed$": 1,
+    "^Failed: 1 test$": 1
+  }
+}
