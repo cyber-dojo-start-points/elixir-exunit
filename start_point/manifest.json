@@ -1,14 +1,14 @@
 {
-  "display_name": "Elixir 1.20, ExUnit",
+  "display_name": "Elixir 1.20.4, ExUnit",
   "language": [
     "Elixir",
-    "1.20"
+    "1.20.4"
   ],
   "test_framework": [
     "ExUnit",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:9fdfe0e",
+  "image_name": "ghcr.io/cyber-dojo-languages/elixir_exunit:b90b9d0@sha256:5fb18229b18d3ca9583fd8bea898bb188acedb037ab53a78e440540a89e5b67f",
   "visible_filenames": [
     "lib/hiker.ex",
     "test/hiker_test.exs",
